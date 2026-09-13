@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Analista Fiscal",
+  "description": "Sistema completo para controle, fiscalização e acompanhamento de notas fiscais, ocorrências, perdas, avarias, faltas de produtos, tarefas e relatórios corporativos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
